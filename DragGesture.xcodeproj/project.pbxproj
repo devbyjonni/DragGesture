@@ -11,6 +11,7 @@
 		FACF906628F6E8EC00FAE79D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACF906528F6E8EC00FAE79D /* ContentView.swift */; };
 		FACF906828F6E8EE00FAE79D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FACF906728F6E8EE00FAE79D /* Assets.xcassets */; };
 		FACF906C28F6E8EE00FAE79D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FACF906B28F6E8EE00FAE79D /* Preview Assets.xcassets */; };
+		FACF907328F6FEBD00FAE79D /* ContentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACF907228F6FEBD00FAE79D /* ContentView2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FACF906728F6E8EE00FAE79D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FACF906928F6E8EE00FAE79D /* DragGesture.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DragGesture.entitlements; sourceTree = "<group>"; };
 		FACF906B28F6E8EE00FAE79D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FACF907228F6FEBD00FAE79D /* ContentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				FACF906328F6E8EC00FAE79D /* DragGestureApp.swift */,
 				FACF906528F6E8EC00FAE79D /* ContentView.swift */,
+				FACF907228F6FEBD00FAE79D /* ContentView2.swift */,
 				FACF906728F6E8EE00FAE79D /* Assets.xcassets */,
 				FACF906928F6E8EE00FAE79D /* DragGesture.entitlements */,
 				FACF906A28F6E8EE00FAE79D /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FACF907328F6FEBD00FAE79D /* ContentView2.swift in Sources */,
 				FACF906628F6E8EC00FAE79D /* ContentView.swift in Sources */,
 				FACF906428F6E8EC00FAE79D /* DragGestureApp.swift in Sources */,
 			);
